@@ -1,0 +1,20 @@
+# Build output
+bin/
+obj/
+out/
+publish/
+TestResults/
+
+# IDE settings
+.idea/
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
